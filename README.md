@@ -1,5 +1,5 @@
 # About Me:
-🔭 Building: AI dashboards and workflow-heavy SaaS systems<br>🌱 Learning: Advanced React & AI-human interaction patterns<br>👯 Looking to collaborate on: AI native products and scalable design systems<br>🤝 Looking for help with: Production-grade AI integrations and system architecture<br>💬 Ask me about: 0→1 product design, AI UX, accessibility (WCAG), and data-driven experimentation<br>⚡ Fun fact: I prototype obsessively and don’t treat design as a 9-5 boundary
+Building: AI dashboards and workflow-heavy SaaS systems<br>Learning: Advanced React & AI-human interaction patterns<br>Looking to collaborate on: AI native products and scalable design systems<br>Looking for help with: Production-grade AI integrations and system architecture<br>Ask me about: 0→1 product design, AI UX, accessibility (WCAG), and data-driven experimentation<br>Fun fact: I prototype obsessively and don’t treat design as a 9-5 boundary
 
 
 ## Socials:
